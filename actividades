@@ -1,0 +1,22 @@
+#ejercicio 1
+#for x in range(10):
+#       print(x)
+#ejercicio 2
+#for x in rnage(1000,200,):
+#       print(x)
+#ejercicio 3
+#for x in range(5,20,3):
+    #print(x)
+#ejercicio 4
+n = int(input())
+for x in range ((n-1),(n*2)):
+    if (n+1)>=x:
+        print(x)
+    if (x == ((n*2)-1))
+        print(x)
+#ejercicio 5
+frase= input ("frase ")
+print("las vocales de la frase son: ")
+for r in "a,e,i,o,u":
+    if r in frase:
+        print(r)
